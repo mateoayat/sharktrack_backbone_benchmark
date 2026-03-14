@@ -1,0 +1,17 @@
+filename,class,ymin,xmin,xmax,ymax,source,track_id,frame_id
+val1_easy2_frame10.jpg,shark,422,184,990,715,val1_easy2,1,10
+val1_easy2_frame11.jpg,shark,202,62,764,630,val1_easy2,1,11
+val1_easy2_frame12.jpg,shark,0,98,939,455,val1_easy2,1,12
+val1_easy2_frame13.jpg,shark,133,0,940,719,val1_easy2,1,13
+val1_easy2_frame14.jpg,shark,469,0,1183,719,val1_easy2,1,14
+val1_easy2_frame15.jpg,shark,443,301,1280,714,val1_easy2,1,15
+val1_easy2_frame16.jpg,shark,347,644,1280,714,val1_easy2,1,16
+val1_easy2_frame17.jpg,shark,319,910,1280,704,val1_easy2,1,17
+val1_easy2_frame18.jpg,shark,425,747,1280,704,val1_easy2,1,18
+val1_easy2_frame19.jpg,shark,328,616,1280,702,val1_easy2,1,19
+val1_easy2_frame2.jpg,shark,151,1104,1280,271,val1_easy2,2,2
+val1_easy2_frame3.jpg,shark,176,789,1198,305,val1_easy2,2,3
+val1_easy2_frame4.jpg,shark,217,576,876,343,val1_easy2,2,4
+val1_easy2_frame5.jpg,shark,255,357,652,363,val1_easy2,2,5
+val1_easy2_frame6.jpg,shark,280,161,440,377,val1_easy2,2,6
+val1_easy2_frame7.jpg,shark,275,0,228,375,val1_easy2,2,7

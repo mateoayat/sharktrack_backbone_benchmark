@@ -1,0 +1,11 @@
+filename,class,ymin,xmin,xmax,ymax,source,track_id,frame_id
+gfp_rand8_frame90.jpg,shark,321,3,112,453,gfp_rand8,2,3
+gfp_rand8_frame120.jpg,shark,311,0,283,443,gfp_rand8,2,4
+gfp_rand8_frame150.jpg,shark,323,191,373,472,gfp_rand8,2,5
+gfp_rand8_frame180.jpg,shark,277,0,312,673,gfp_rand8,2,6
+gfp_rand8_frame270.jpg,shark,395,324,555,599,gfp_rand8,5,9
+gfp_rand8_frame300.jpg,shark,350,338,896,584,gfp_rand8,5,10
+gfp_rand8_frame330.jpg,shark,299,626,961,610,gfp_rand8,5,11
+gfp_rand8_frame360.jpg,shark,258,246,1079,603,gfp_rand8,5,12
+gfp_rand8_frame390.jpg,shark,189,0,691,687,gfp_rand8,5,13
+gfp_rand8_frame420.jpg,shark,167,0,478,518,gfp_rand8,5,14
